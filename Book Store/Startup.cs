@@ -139,7 +139,7 @@ namespace Book_Store
             });
 
 
-
+            //
             app.UseStaticFiles();
 
             app.UseHttpsRedirection();
